@@ -1,7 +1,5 @@
 provider "aws" {
   region = "us-east-2"
-  access_key = "AKIAWNDVBGT2D7H5B4SQ"
-  secret_key = "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"
 }
 
 #Create Application Load Balancer
